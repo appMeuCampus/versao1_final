@@ -16,7 +16,7 @@ public class Eventos_Classe implements Parcelable {
     public int numero_de_eventos = 0;
     private int id = 0;
     private String descricao;
-    private String nome = "esse objto está com valor default";
+    private String nome = "";
     private Calendar data_inicial = Calendar.getInstance();
     private Calendar data_final = Calendar.getInstance();
     private String hora_inicio;
