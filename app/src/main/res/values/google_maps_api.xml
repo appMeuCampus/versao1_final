@@ -4,6 +4,6 @@
     https://developers.google.com/maps/documentation/android/start#get-key
     -->
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-        AIzaSyD908sxaC0N6SSRRqRmReWZ1-_GyiNu4vI
+        AIzaSyCXIcsDCDMg8NIcLvtZVLALhw1BxAN_gAA
     </string>
 </resources>

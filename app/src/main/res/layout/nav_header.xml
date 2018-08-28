@@ -25,7 +25,7 @@
             android:layout_height="wrap_content"
             android:paddingRight="8dp"
             android:padding="8dp"
-            android:text="MeuCampus"
+            android:text="IFMG"
             android:textAppearance="@style/TextAppearance.AppCompat.Title"
             android:textSize="18sp"
             android:layout_marginTop="10dp"
